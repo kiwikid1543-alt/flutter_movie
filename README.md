@@ -1,16 +1,6 @@
-# flutter_movie
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 현재 상영중 : https://developer.themoviedb.org/reference/movie-now-playing-list
+- 인기순 : https://developer.themoviedb.org/reference/movie-popular-list
+- 평점 높은순 : https://developer.themoviedb.org/reference/movie-top-rated-list
+- 개봉 예정 : https://developer.themoviedb.org/reference/movie-upcoming-list
+- 영화 상세 정보 : https://developer.themoviedb.org/reference/movie-details
+- 요청 헤더 : { `Authorization` : `Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYmNiNzJjNzQ4N2U1N2QxNDdiNDk3Mjg3MTlmZDE5ZiIsIm5iZiI6MTczMzM5MTMxNy45NzUwMDAxLCJzdWIiOiI2NzUxNzNkNThhZjZkM2ZlYjNhZmU0NDUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.xwBAH8_W-yBA3RoH9JscnBQe_1McKgodxi1JO-kcJn8` }
